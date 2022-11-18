@@ -1,5 +1,5 @@
 ### こんにちは 👋
-### :mortar_board: sensors、data analysis、transfer learning
+### :mortar_board: Sensors、Data analysis、Transfer learning
 ### :rabbit: KMer NPDP PMP 
 
 <!--
