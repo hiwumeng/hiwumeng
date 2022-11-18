@@ -1,4 +1,6 @@
 ### Hi there 👋
+:mortar_board: sensors、data analysis、transfer learning
+:rabbit: KMer NPDP PMP 
 
 <!--
 **hiwumeng/hiwumeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
