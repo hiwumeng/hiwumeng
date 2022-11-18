@@ -1,4 +1,4 @@
-### 👋 こんにちは :cocktail:
+### :cocktail: こんにちは 
 ### :mortar_board: Sensors、Data analysis、Transfer learning
 ### :chart_with_upwards_trend: KMer、 NPDP、 PMP 
 
