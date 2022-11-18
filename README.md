@@ -1,6 +1,7 @@
 ### :cocktail: こんにちは 
 ### :mortar_board: Sensors、Data analysis、Transfer learning
 ### :chart_with_upwards_trend: KMer、 NPDP、 PMP 
+### :dart: Fundings、Projects、Exit channels
 
 <!--
 **hiwumeng/hiwumeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
