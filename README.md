@@ -1,4 +1,4 @@
-### :cocktail: こんにちは 
+### :cocktail: こんにちは 楽しんでください
 ### :mortar_board: Sensors、Data analysis、Transfer learning
 ### :chart_with_upwards_trend: KMer、 SAFe、NPDP、 PMP 
 ### :dart: Fundings、Projects、Exit channels
