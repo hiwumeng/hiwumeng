@@ -2,7 +2,7 @@
 ### :mortar_board: Sensors、Data analysis、Transfer learning
 ### :chart_with_upwards_trend: KMer、 SAFe、NPDP、 PMP 
 ### :dart: Fundings、Projects、Exit channels
-### ：:crystal_ball: Lecturer 
+### :crystal_ball: Lecturer 
 
 <!--
 **hiwumeng/hiwumeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
